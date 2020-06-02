@@ -44,3 +44,13 @@ Distribution of user requests and serving of content directly from edge servers 
 - These endpoints can be cached.
 - To achive the same functionality from a regular storage, you need a more advance CDN offering that has rewrite rules.
 
+### Static Pages CDN Benefits
+
+- Easy configuration
+- No extra cost
+- Optimized for static content
+
+### Static Pages CDN Drawback
+
+- Public endpoint is alway anonyumous
+- No additional customization allowed (i.e. protection with SAS tokens)
