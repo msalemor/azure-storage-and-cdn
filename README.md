@@ -14,6 +14,17 @@ Distribution of user requests and serving of content directly from edge servers 
 
 - https://docs.microsoft.com/en-us/azure/cdn/cdn-overview
 
+## CDN Benefits
+
+- Distributed network delivering content close to where the users request it.
+- Highly scalable and performant networking
+
+## CDN Benefits working with Storage Accounts
+
+- Azure CDN works closesly with Azure blob storage to serve content effective and save on blob transfer costs
+- Has features such as re-write rules
+- Azure CDN can work with SAS tokens
+
 ## Compare Product Features
 
 - https://docs.microsoft.com/en-us/azure/cdn/cdn-features
@@ -23,6 +34,8 @@ Distribution of user requests and serving of content directly from edge servers 
 - https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn
 
 ## Azure Account Storage
+
+- Associate SAS tokens with Stored Access policy
 
 ## Account Storage - Static Pages
 
